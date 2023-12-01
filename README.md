@@ -1,4 +1,4 @@
-# Olist-company
+# Olist-business analysis
 Business analysis
 
 Olist operates an online e-commerce site for sellers, that connects merchants and their products to the main marketplaces of Brazil.
